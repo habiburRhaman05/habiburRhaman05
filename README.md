@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=browser&logoColor=white" /></a>
+  <a href="mailto:devhabib2005@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://rhaman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=browser&logoColor=white" /></a>
 </p>
 
 </div>
