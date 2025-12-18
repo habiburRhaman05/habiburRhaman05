@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Professional Profile
+## 🚀 About Me
 I am a results-driven **Full-Stack Developer** focused on building high-performance, production-ready web applications. While my primary expertise lies in the **MERN stack and GraphQL**, I also leverage **Golang** for building efficient, low-latency backend services. I bridge the gap between complex business requirements and robust technical solutions with a focus on **clean code and system performance**.
 
 ---
