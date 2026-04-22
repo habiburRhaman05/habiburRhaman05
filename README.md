@@ -2,7 +2,7 @@
 
 # 👋 I'am Habibur Rhaman
 ### **Full-Stack Developer**
-**Specializing in MERN, GraphQL & Golang**
+**Full-Stack Developer specializing in Next.js, PostgreSQL, and MERN, building scalable apps with Docker, CI/CD (GitHub Actions), cloud deployments, RBAC, secure auth, Stripe, AI automation, and performance-focused UI/UX. **
 
 <p align="center">
   <a href="https://www.linkedin.com/in/habiburrhaman05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
