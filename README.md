@@ -5,7 +5,7 @@
 **Specializing in MERN, GraphQL & Golang**
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/habiburrhaman05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:devhabib2005@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://rhaman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=browser&logoColor=white" /></a>
 </p>
@@ -33,12 +33,12 @@ I am a results-driven **Full-Stack Developer** focused on building high-performa
 
 ## 🌟 Selected Engineering Projects
 
-### 📊 Job Board Platform
-*High-concurrency marketplace with optimized data orchestration.*
-- **Impact:** Reduced API latency by **50%** through GraphQL Dataloaders and advanced indexing.
+### 📊 Blitz Analyzer
+*AI-powered resume analysis platform that helps users understand how well their resume matches a job.*
+- **Impact:** Reduced API latency by **50%** through GraphQL Dataloaders and advanced Ai Matching.
 - [🔗 Live Demo](https://opportune-hub.vercel.app) | [📂 Repository](https://github.com/habiburRhaman05/OpportuneX)
 
-### 🛒 E-Commerce Engine
+### Edu Spark 
 *Scalable storefront emphasizing data integrity and atomic transactions.*
 - **Impact:** Achieved **100% data consistency** during high-volume checkouts using PostgreSQL transactions.
 - [🔗 Live Demo](https://your-link.com) | [📂 Repository](https://github.com/habiburRhaman05/shoe-store)
@@ -60,7 +60,7 @@ I am a results-driven **Full-Stack Developer** focused on building high-performa
 I'm always open to discussing technical challenges, full-stack opportunities, or engineering mentorship.
 
 * **Portfolio:** [rhaman.vercel.app](https://rhaman.vercel.app)
-* **LinkedIn:** [/in/habib](https://linkedin.com/in/YOUR_USERNAME)
+* **LinkedIn:** [/in/habib](https://www.linkedin.com/in/habiburrhaman05)
 * **Email:** [devhabib2005@gmail.com](devhabib2005@gmail.com)
 
 <div align="center">
