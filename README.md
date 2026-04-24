@@ -1,45 +1,38 @@
 <div align="center">
 
-### Assalamu Alaikum, I am
-# **Habibur Rhaman**
-## *Full-Stack Developer*
+# Habibur Rahman
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/habiburrhaman05">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:devhabib2005@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://rhaman.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" />
-  </a>
-</p>
+### Full-Stack Developer
+
+**Open to full-time roles · On-site friendly · Bangladesh (GMT+6)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habiburrhaman05)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:devhabib2005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://rhaman.vercel.app)
 
 </div>
 
 ---
 
-## Professional Summary
+I build production-ready web applications with **Next.js, Node.js, PostgreSQL, and Docker** — focused on secure authentication, clean architecture, and systems that hold up under real-world conditions.
 
-Full-Stack Developer focused on building scalable, maintainable, and production-ready web applications with Next.js, React, Node.js, Express, PostgreSQL, and the MERN stack.  
-Hands-on with secure authentication, RBAC, API integration, Docker, GitHub Actions, and cloud deployment workflows, with a strong focus on performance, reliability, and clean UI/UX.
+Currently exploring distributed systems patterns (saga, outbox, CQRS) and building a lightweight task queue in Go using Redis streams.
 
----
 
-## Core Strengths
+ ## Highlights
 
-- Building end-to-end web applications with modern frontend and backend architecture
-- Designing secure authentication and authorization flows
-- Working with relational and NoSQL databases
-- Creating reusable UI systems and responsive interfaces
-- Shipping code with Docker, CI/CD, and deployment best practices
+- Full-stack developer with strong frontend and backend delivery
+- Experience with JWT auth, refresh tokens, RBAC, and secure APIs
+- Built projects with PostgreSQL transactions, Redis caching, and GraphQL
+- Comfortable with Docker, GitHub Actions, and production deployment workflows
 
 ---
 
-## Technical Skills
+---
 
-| Category | Technologies |
+## Tech Stack
+
+| | Technologies |
 | :--- | :--- |
 | **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
@@ -49,51 +42,50 @@ Hands-on with secure authentication, RBAC, API integration, Docker, GitHub Actio
 
 ---
 
-## Selected Projects
+## Projects
 
-### **Blitz Analyzer**
-AI-powered resume analysis platform that helps users understand job-fit quality and improve applications.
-- Reduced API latency by **50%** through GraphQL Dataloaders and optimized matching flow.
-- Built for structured analysis, better performance, and practical user value.
-- [Live Demo](https://blitz-analyzer.vercel.app) | [Repository](https://github.com/habiburRhaman05/OpportuneX](https://github.com/habiburRhaman05/Blitz-Analyzer-Backend)
+### [Blitz Analyzer](https://blitz-analyzer.vercel.app) — AI Resume Analysis Platform
+> **Stack:** Next.js · GraphQL · PostgreSQL · OpenAI API · Redis
 
-### **Edu Spark**
-AI-powered tutor matching · Live HD classrooms · Multi-role dashboards · Production-grade RBAC
-- Achieved **100% data consistency** during checkout using PostgreSQL transactions.
-- High Quality Video session
-- Designed to support reliable order flow and production-grade backend logic.
-- [Live Demo](https://edu-spark-zone.vercel.app) | [Repository](https://github.com/habiburRhaman05/EduSpark-modern-learning-platfrom)
+Analyzes resumes against job descriptions and surfaces actionable fit scores with improvement suggestions. Built around structured analysis and real user value.
+
+- Cut p95 API response time from **~800ms → ~400ms** by eliminating N+1 queries with GraphQL Dataloaders and Redis response caching
+- Designed a batched matching pipeline that handles concurrent analysis requests without cold-start degradation
+
+[Live Demo](https://blitz-analyzer.vercel.app) · [Repository](https://github.com/habiburRhaman05/Blitz-Analyzer-Backend)
 
 ---
 
-## Engineering Focus
+### [Edu Spark](https://edu-spark-zone.vercel.app) — Online Learning Platform
+> **Stack:** Next.js · Node.js · PostgreSQL · WebRTC · JWT
 
-- Secure auth and role-based access control
-- Performance optimization and API efficiency
-- Production deployment with Docker and CI/CD
-- Clean, maintainable code structure
-- Business-focused UI with real-world usability
+Tutor-student marketplace with live HD video sessions, multi-role dashboards (student / tutor / admin), and full RBAC. Built for production-grade reliability.
 
----
+- Zero payment inconsistencies across 100+ test transactions using **PostgreSQL transactions with rollback guards** on every checkout flow
+- Role-based access control across 3 user types with JWT + refresh token rotation
+- HD live sessions via WebRTC with fallback handling for unstable connections
 
-## GitHub & Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habiburRhaman05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiburRhaman05&theme=tokyonight&hide_border=true" height="150" />
-</div>
+[Live Demo](https://edu-spark-zone.vercel.app) · [Repository](https://github.com/habiburRhaman05/EduSpark-modern-learning-platfrom)
 
 ---
 
-## Contact
+## What I bring
 
-I am open to full-stack roles, backend engineering opportunities, and production-focused web development work.
+- End-to-end ownership — from schema design and API layer to UI and deployment
+- Secure auth flows: JWT, refresh tokens, RBAC, session management
+- Performance-first thinking: query optimization, caching, batching
+- CI/CD with GitHub Actions, containerized deploys with Docker
+- Clean, reviewable code that teams can build on
 
-- **Portfolio:** [rhaman.vercel.app](https://rhaman.vercel.app)
-- **LinkedIn:** [habiburrhaman05](https://www.linkedin.com/in/habiburrhaman05)
-- **Email:** [devhabib2005@email.com](mailto:devhabib2005@email.com)
+---
 
-<div align="center">
-  <br />
-  <strong>Focused on building clean, scalable, and reliable software.</strong>
-</div>
+## Hire me
+
+Available immediately for **full-stack or backend roles and frontend roles ** — remote or hybrid.
+Open to full-time positions and long-term contracts.
+
+Response guaranteed within 24 hours.
+
+**Email:** devhabib2005@gmail.com
+**Portfolio:** [rhaman.vercel.app](https://rhaman.vercel.app)
+**LinkedIn:** [habiburrhaman05](https://www.linkedin.com/in/habiburrhaman05)
